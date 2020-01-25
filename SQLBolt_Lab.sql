@@ -146,3 +146,5 @@ ALTER TABLE movies
 ADD Language TEXT DEFAULT English
 
 --Exercise 18
+DROP TABLE IF EXISTS movies
+DROP TABLE IF EXISTS boxoffice
